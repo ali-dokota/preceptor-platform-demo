@@ -1,1 +1,1 @@
-# preceptor-platform-demo
+# preceptor-platform
